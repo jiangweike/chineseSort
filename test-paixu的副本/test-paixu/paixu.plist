@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   paixu.plist
+   test-paixu
+
+   Created by 姜维克 on 2017/5/23.
+   Copyright (c) 2017年 O2O_iOS_jiangweike. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>朴</key>
+        <string>殍</string>
+        <key>曾</key>
+        <string>增</string>
+        <key>查</key>
+        <string>喳</string>
+        <key>翟</key>
+        <string>宅</string>
+        <key>乐</key>
+        <string>阅</string>
+        <key>解</key>
+        <string>卸</string>
+        <key>厦</key>
+        <string>吓</string>
+        <key>谌</key>
+        <string>慎</string>
+        <key>单</key>
+        <string>疝</string>
+        <key>折</key>
+        <string>蛇</string>
+        <key>沈</key>
+        <string>婶</string>
+        <key>覃</key>
+        <string>禽</string>
+        <key>仇</key>
+        <string>虬</string>
+        <key>繁</key>
+        <string>嘙</string>
+        <key>区</key>
+        <string>殴</string>
+        <key>乜</key>
+        <string>颞</string>
+        <key>阿</key>
+        <string>屙</string>
+        <key>褚</key>
+        <string>杵</string>
+        <key>重</key>
+        <string>虫</string>
+        <key>种</key>
+        <string>虫</string>
+        <key>长</key>
+        <string>肠</string>
+        <key>秘</key>
+        <string>壁</string>
+        <key>长孙</key>
+        <string>涨孙</string>
+        <key>尉迟</key>
+        <string>域迟</string>
+        <key>澹台</key>
+        <string>痰台</string>
+        <key>万俟</key>
+        <string>殁崎</string>
+        <key>单于</key>
+        <string>馋于</string>
+        <key>查理</key>
+        <string>茶理</string>
+        <key>令狐</key>
+        <string>羚狐</string>
+    </dict>
+</plist>
